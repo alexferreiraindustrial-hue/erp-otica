@@ -98,4 +98,4 @@ Veja também: **[Laboratório Óptico](https://github.com/alexferreiraindustrial
 
 ---
 
-<sub>© 2026 Antonio Alex Silva Ferreira. Software proprietário — todos os direitos reservados.</sub>
+<sub>© 2026 Antonio Alex Silva Ferreira LTDA. Software proprietário — todos os direitos reservados.</sub>
