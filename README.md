@@ -16,6 +16,8 @@
 
 > 🔒 **O código-fonte é privado** porque o sistema está em operação em uma empresa. Este repositório apresenta o projeto: o problema, a solução, a arquitetura e como ele foi construído. Demonstração ao vivo sob pedido pelo [LinkedIn](https://www.linkedin.com/in/antonio-alex-silva-ferreira-65434a298/).
 
+O ERP da ótica convive com o sistema do laboratório de montagem. O site está em [lab.oticahub.com](https://lab.oticahub.com) e o aplicativo Flutter (Laboratório ALEX) está no mesmo repositório, publicado para consulta: **[laboratorio-optico](https://github.com/alexferreiraindustrial-hue/laboratorio-optico)**. Web e app usam o mesmo banco. O código do ERP continua privado.
+
 ---
 
 ## O problema
@@ -94,7 +96,17 @@ Não sou programador de formação. Sou estudante de **Engenharia de Produção*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-alex-silva-ferreira-65434a298/)
 [![Site](https://img.shields.io/badge/antonio.oticahub.com-0e6b62?style=for-the-badge)](https://antonio.oticahub.com)
 
-Veja também: **[Laboratório Óptico](https://github.com/alexferreiraindustrial-hue/laboratorio-optico)** — o sistema de produção do laboratório de montagem, com código aberto para consulta.
+## Ecossistema
+
+A ótica e o laboratório são dois produtos. Quem avalia o conjunto olha os dois.
+
+| Produto | Onde ver | Código |
+| --- | --- | --- |
+| **ERP Ótica** | [oticahub.com](https://oticahub.com) | Privado. Este repositório é a vitrine: problema, módulos, arquitetura e forma de construção. |
+| **Laboratório Óptico** (web) | [lab.oticahub.com](https://lab.oticahub.com) | [laboratorio-optico](https://github.com/alexferreiraindustrial-hue/laboratorio-optico), publicado para consulta e avaliação. |
+| **App do laboratório** | Flutter, pasta `mobile/` do repositório acima | Painel, lançamento, bancada, pedido de lentes e conversa da OS. Mesmo banco e as mesmas regras do site. |
+
+O laboratório não é uma cópia do ERP. Ele cobre a produção da montagem: fila, prazo, etapas da bancada e comunicação com o vendedor. O ERP cobre a ótica: receita, venda, estoque, financeiro e CRM.
 
 ---
 
